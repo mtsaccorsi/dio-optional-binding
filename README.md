@@ -1,8 +1,4 @@
-Chegou a hora do nosso Desafio de Projeto :)
-
-Fundamentos de Swift e iOS
-
-O Desafio:
+## O Desafio:
 
 - Criar um projeto no playground usando o Xcode;
 - Definir uma constante com o valor incial "Steve";
